@@ -1,0 +1,13 @@
+- [x] Add Take/Paid labels, balance bands, and recent-entry customer ordering.
+- [x] Add month filter, all-entry datewise report, and full-statement preview.
+- [x] Add SMS and Twilio consent controls with direct SMS sending.
+- [x] Simplify master password change to a popup.
+- [x] Group datewise reports by date and colour Take red / Paid green.
+- [x] Add forgot/reset password, existing-user signup popup, and verification return to the published site.
+- [x] Add login-password change in Settings.
+- [x] Put Twilio setup in one Settings popup.
+- [x] Restore Batch Add beside Datewise Report for multiple customer entries.
+- [x] Make Batch Add selected-customer Take entries only, with repeatable rows on one date.
+- [ ] Add safe Firebase JSON import after a sample is provided (blocked: export format unknown).
+- [x] Center customer balance and show advances in green.
+- [x] Add five user-selectable appearances in Settings (user delegated choice of designs).

@@ -1,0 +1,20 @@
+{
+  "version": "7",
+  "dialect": "postgresql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "7",
+      "when": 1790537800555,
+      "tag": "0000_create_ledger_schema",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1790659284157,
+      "tag": "0001_customer_messaging_consent_and_sms_number",
+      "breakpoints": true
+    }
+  ]
+}
